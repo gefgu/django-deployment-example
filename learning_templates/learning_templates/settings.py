@@ -70,6 +70,8 @@ TEMPLATES = [
 
 WSGI_APPLICATION = 'learning_templates.wsgi.application'
 
+ALLOWED_HOSTS = ['gefgu.pythonanywhere.com']
+
 
 # Database
 # https://docs.djangoproject.com/en/1.10/ref/settings/#databases
